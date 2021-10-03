@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Anna Humphrey
+title: A.
 tagline: Writer & Editor
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Writer based in Taipei, Taiwan. Working as an English Editor at LiveABC Interactive English Teaching Group.
+Writer based in Taipei, Taiwan. 
