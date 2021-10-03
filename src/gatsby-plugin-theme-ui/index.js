@@ -6,7 +6,7 @@ const theme = {
     ...defaultColors,
     text: "#000",
     background: "#fff",
-    primary: "#5C2941",
+    primary: "@b1b248",
     accent: "#fff",
     muted: "rgba(0, 0, 0, 0.7)",
     cardBg: "#fff",
