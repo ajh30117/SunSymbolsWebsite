@@ -31,11 +31,11 @@
     color: rgb(7, 7, 7);
     text-decoration: none;
     &:hover {
-      color: rgba(56, 55, 55, 0.8);
+      color: rgba(92, 91, 91, 0.8);
     }
   }
   a[aria-current="page"] {
-    color: rgb(10, 9, 9);
+    color: rgb(80, 79, 79);
   }
   .menu-trigger {
     display: none;
@@ -95,10 +95,10 @@
 .site-logo {
   font-weight: bold;
   a {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     &:hover {
-      color: #fff;
+      color: rgb(0, 0, 0);
     }
   }
   @media (max-width: $breakpoint-lg) {
@@ -270,10 +270,10 @@ article img {
   &.-outline {
     color: var(--primary-color);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.6);
-    background: #fff;
+    background: rgb(0, 0, 0);
     &:hover {
       box-shadow: 0 0 1px rgba(0, 0, 0, 0.8);
-      background: #f2f2f2;
+      background: #747373;
     }
   }
   & + .button {
