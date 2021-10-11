@@ -2,11 +2,11 @@
 template: index-page
 slug: /
 title: A.
-tagline: Writer & Editor
+tagline: Writer
 featuredImage: /assets/sunsymbolshomepage.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-Writer based in Taipei, Taiwan. 
+Writer & Editor based in Taipei, Taiwan. 
