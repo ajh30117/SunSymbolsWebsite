@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Desk for minimalists
+title: Book Review - Deep Work
 slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
+date: 2021-10-11 12:46
+description: A brief review of a book on productivity habits
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 
