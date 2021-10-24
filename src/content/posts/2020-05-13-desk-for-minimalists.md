@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Book Review - Cal Newport's "Deep Work"
-slug: /minimalists-desk
+title: 'Book Review: "Deep Work" by Cal Newport'
+slug: /looking-down-vortex
 date: 2021-10-11 12:46
 description: A brief review of a book on productivity habits
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/deep-work-pic.jpg
 ---
 Cal Newport’s “Deep Work” delivers a focused and passionate manifesto on harnessing the power of deep work for personal and professional gain. Newport, an associate professor of computer science at Washington DC’s Georgetown University, stresses how deep work is becoming a rare commodity in the swamp of email, social media, and shallow tasks that so many contemporary “knowledge workers” find themselves stuck in. With the rise of Web 2.0 comes a rise in awareness of the myriad distractions vying for space in today’s attention economy. Thus, the conversation around attention and deep work continues to grow in popularity and relevance. Newport’s rhetoric on this topic is compelling: he deftly bothers readers with images of time, energy, and genius lost to modern mindlessness and makes a sound case for deep work’s scarcity principle. What “Deep Work” fails to do, however, is bolster its urgent claims with convincing and substantive research. Newport attempts to use research to support: 
 
