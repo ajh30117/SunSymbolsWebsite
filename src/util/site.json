@@ -4,9 +4,9 @@
     "titleTemplate": "%s",
     "description": "desc",
     "siteUrl": "https://sunsymbols.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/sunicon.png",
+    "iconimage": "/assets/sunicon.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
