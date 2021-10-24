@@ -11,7 +11,10 @@
     {
       "icon": "linkedin",
       "url": "https://in.linkedin.com/company/stackrole"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com/ajh30117"
     }
-  
   ]
 }
