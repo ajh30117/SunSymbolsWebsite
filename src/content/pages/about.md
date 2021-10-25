@@ -33,4 +33,3 @@ More about [Jamstack](https://jamstack.wtf/)
 
 More about [Git and GitHub](https://guides.github.com/activities/hello-world/)
 
-![Toys]( "Toys")
