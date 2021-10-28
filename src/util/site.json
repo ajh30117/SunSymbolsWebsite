@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "desc",
     "siteUrl": "https://sunsymbols.com",
-    "image": "/assets/sunicon-2-.png",
-    "iconimage": "/assets/sunicon-2-.png",
+    "image": "/assets/suntransparent.png",
+    "iconimage": "/assets/suntranparent.png",
     "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
