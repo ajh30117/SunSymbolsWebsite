@@ -21,9 +21,9 @@ main {
   }
 }
 a {
-  color: var(--home-link-color);
+  color: var(--home-link-color); //This is link color in body text
   text-decoration: none;
   &:hover {
-    color: var(--home-link-hover-color);
+    color: var(--home-link-hover-color); //This is link hover color in body text
   }
 }
