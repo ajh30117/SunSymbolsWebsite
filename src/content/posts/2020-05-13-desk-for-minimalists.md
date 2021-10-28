@@ -4,11 +4,13 @@ title: 'Book Review: "Deep Work" by Cal Newport'
 slug: /looking-down-vortex
 date: 2021-10-11 12:46
 description: A brief review of a book on productivity habits
-featuredImage: /assets/deep-work-pic.jpg
+featuredImage: /assets/deep-work-sketch.jpg
 ---
+**Deep Work: Rules for Focused Success in a Distracted World**
+
 Cal Newport’s “Deep Work” delivers a focused and passionate manifesto on harnessing the power of deep work for personal and professional gain. Newport, an associate professor of computer science at Washington DC’s Georgetown University, stresses how deep work is becoming a rare commodity in the swamp of email, social media, and shallow tasks that so many contemporary “knowledge workers” find themselves stuck in. With the rise of Web 2.0 comes a rise in awareness of the myriad distractions vying for space in today’s attention economy. Thus, the conversation around attention and deep work continues to grow in popularity and relevance. Newport’s rhetoric on this topic is compelling: he deftly bothers readers with images of time, energy, and genius lost to modern mindlessness and makes a sound case for deep work’s scarcity principle. What “Deep Work” fails to do, however, is bolster its urgent claims with convincing and substantive research. Newport attempts to use research to support: 
 
-(1) the value of deep work  
+(1) the value of deep work\
 (2) the methods used to accomplish more of it
 
 which is sometimes insightful, but too often feels repetitive and hackneyed. What’s more, Newport’s advice on increasing deep work productivity is too often tailored to the lifestyle and habits of an academic, stunting his ability to resonate with a broader audience. Due to this lack of substantial research and the narrow range, the book’s full effect doesn’t do justice to the intrigue and exigency of its premise. 
@@ -35,20 +37,8 @@ I enjoyed Chapter #’s discussion on social media. Contrary to what the chapter
 
 I was slightly disappointed that Newport didn’t touch at all upon the stealthy al/lure of platforms like Google, Youtube, Instagram, and Facebook --  internet intermediaries who rely on algorithms to draw consumers in, feed them endless loops of content, and completely hijack attention. Here, I think Newport missed an opportunity to help readers weaponize this knowledge and push back against the influence of Web 2.0 monopolies, a threat that only fortifies the hazards of mindless media consumption. 
 
-
 As a psychology enthusiast, I also would have appreciated more science on boredom, attention training, how constant distraction shapes cognition, and the benefits of meditation (beyond Newport’s personally acclaimed think-walk). However, Newport is a computer scientist--not a neuroscientist--so it’s understandable that much of his advice relies on empirical evidence and popular psychology instead of harder-hitting science. 
 
 tldr: 
 
 After reading this book, I am certainly more conscious of the need to increase my attention capacity and create space for more deep work in my life. I am also totally convinced of the value these efforts can bring to my personal and professional goals. I will not, however, be abiding by most of Newport’s suggested methods to implement these efforts, nor will I be relying heavily on the research cited in his book to better understand the science of attention. While I think most people can benefit from reading this book, I view it as a springboard--not a field guide--for one’s forays into the realm of productivity.
-
-
-
-
-
-
-
-
-
-
-
