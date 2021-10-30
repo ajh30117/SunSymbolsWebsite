@@ -17,21 +17,13 @@ In addition to writing, rhetoric and psychology, my professional interests inclu
 
 * English Consulting
 
-*Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or make project requests.*
-
-# Projects
-
-Carburetor Removal Guide
-
-Website History Writeup
-
-Google Tech Writing Course Workflow   
+*Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or make project requests.*  
 <br>
 <br>
 
 > **About This Website**  
 >
->SunSymbols was built using Gatsby—an open-source static website generator based on React. It is hosted on Netlify (which offers cloud hosting and serverless backend services) via continuous deployment from > GitHub repository. The design was customized from a Jamstack template made by [Stackrole](https://stackrole.com/).
+>SunSymbols was built using Gatsby—an open-source static website generator based on React. It is hosted on Netlify (which offers cloud hosting and serverless backend services) via continuous deployment from a GitHub repository. The design was customized from a Jamstack template made by [Stackrole](https://stackrole.com/).
 >
 >I chose to build a static (over dynamic) website for speed, security, and cost-efficiency. I used Gatsby and Netlify due to their ample documentation, user support, and compatibility with GitHub. Git branching makes it easy for me to edit my source code locally and test it on a development server before deploying the changes to my site. It is also a great tool for collaboration with others developers.
 >
