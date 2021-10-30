@@ -19,41 +19,43 @@ In addition to writing, rhetoric and psychology, my professional interests inclu
 
 *Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or make project requests.*  
 
-# A Brief Guide to Editing Projects:
+## A Brief Guide to Types of Editing Projects:
 
 **What type of editing?**
 
 *There are different types of editing, and they often overlap. Please see my general outline of different editing job types below. Keep these in mind when requesting editing work.*
 
-*Prices are based on a flat hourly rate. More involved editing jobs will take longer to complete.* 
+*Prices are based on a flat hourly rate. More involved editing jobs will take longer to complete.*  
 
-*\*Rush jobs needing to be completed within 24 hours are charged at twice the hourly rate.*
 
-* Proofreading: This type focuses on mechanics, including inconsistencies, spelling, grammar, punctuation, capitalization, abbreviation, formatting, etc. [Writing correctly]
+* Proofreading: This type focuses on mechanics, including inconsistencies, spelling, grammar, punctuation, capitalization, abbreviation, formatting, etc. [Writing correctly]  
 
-* Copyediting: This type is more comprehensive. The editor focuses on word choice, spelling, grammar, mechanics, coherence/cohesiveness, transitions, style, tone,  sentence structure, citations/references and overall writing quality. The editor makes sure your writing is technically correct as well as clear, concise and eloquent. [Improving the reading experience]
+
+* Copyediting: This type is more comprehensive. The editor focuses on word choice, spelling, grammar, mechanics, coherence/cohesiveness, transitions, style, tone,  sentence structure, citations/references and overall writing quality. The editor makes sure your writing is technically correct as well as clear, concise and eloquent. [Improving the reading experience]  
+
  
-* Content/developmental editing: The editor considers the content/substance of the paper. Is it well-structured? Is the style and tone consistent? Does it flow well? Are the ideas well-developed and clearly articulated? Are there any flaws in logic? This type may call for adding or removing large amounts of information. It often involves leaving notes and ongoing communication between author/editor. [Big picture]
+* Content/developmental editing: The editor considers the content/substance of the paper. Is it well-structured? Is the style and tone consistent? Does it flow well? Are the ideas well-developed and clearly articulated? Are there any flaws in logic? This type may call for adding or removing large amounts of information. It often involves leaving notes and ongoing communication between author/editor. [Big picture]  
 
-* Fact checking - this service can be included in any of the above editing types. The editor will ensure the information in your writing is correct and consistent. 
+
+* Fact checking - this service can be included in any of the above editing types. The editor will ensure the information in your writing is correct and consistent.  
+
 
 **What style? What guidelines?**
 
-Writing and editing often adheres to a specific style guide. Some of the most popular American English style guides are listed below. Keep these in mind when requesting editing work. 
+*Writing and editing often adheres to a specific style guide. Some of the most popular American English style guides are listed below. Keep these in mind when requesting editing work.*
 
-* The Chicago Manual of Style (CMS): Most common. The standard for book publishing. Also used for literary print publications, particularly in history and the arts.
 
-* The AP Stylebook: Used for newspaper and journalistic publications as well as marketing, PR, and corporate writing. Saves space in print and on web pages.
+* The Chicago Manual of Style (CMS): Most common. The standard for book publishing. Also used for literary print publications, particularly in history and the arts.  
 
-* MLA Handbook: Used in the liberal arts and humanities, particularly in English studies and literature.
+
+* The AP Stylebook: Used for newspaper and journalistic publications as well as marketing, PR, and corporate writing. Saves space in print and on web pages.  
+
+
+* MLA Handbook: Used in the liberal arts and humanities, particularly in English studies and literature.  
+
 
 * APA Publication Manual: (American Psychological Association). Used in social and behavioral sciences. Focuses on simplifying style, structure and citations.
-
-These are the most popular English style guides, and those which I have the most experience in. Other industry-specific style guides include:
-
-* EEE: for computer science and other technical fields  
-* New Oxford Style Manual: widely used in England  
-* AMA Manual of Style: (American Medical Association) for medical writing  
+ 
 
 <br>
 <br>
