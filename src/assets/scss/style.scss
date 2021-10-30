@@ -92,14 +92,26 @@
   max-width: 1240px;
   padding: 0 20px;
 }
+.inline {
+  display:inline-block;
+}
+.position {
+  position: relative;
+  bottom:20px;
+}
 .site-logo {
   font-weight: bold;
   a {
+    position:relative;
+    bottom:14px;
     color: rgb(0, 0, 0);
     text-decoration: none;
     &:hover {
       color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 14px;
     }
+    
   }
   @media (max-width: $breakpoint-lg) {
     font-size: 20px;

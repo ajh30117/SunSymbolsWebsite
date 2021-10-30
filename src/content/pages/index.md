@@ -2,13 +2,14 @@
 template: index-page
 slug: /
 title: Anna Humphrey
-tagline: Writer
+tagline: Writer & Editor
 featuredImage: /assets/sunsymbolshomepage.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-![image](/assets/suntransparent.png) 
+Writing, Editing/Copyediting, Tech Writing, Learning Design, Programming
 
-Writer & Editor based in Taipei, Taiwan. 
+
+
