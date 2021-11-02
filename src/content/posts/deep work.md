@@ -4,7 +4,7 @@ title: 'Book Review: "Deep Work" by Cal Newport'
 slug: /looking-down-vortex
 date: 2021-10-11 12:46
 description: A brief review of a book on productivity habits
-featuredImage: /assets/deep-work-sketch.jpg
+featuredImage: /assets/deepworkv3.jpg
 ---
 **Deep Work: Rules for Focused Success in a Distracted World**
 

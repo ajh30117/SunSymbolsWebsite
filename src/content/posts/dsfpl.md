@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 'Book Review: "Design for How People Learn" by Julie Dirkson'
-slug: learning-brain
+slug: /learning-brain
 date: 2021-10-24 12:37
 description: A brief review of a book on learning design principles.
 featuredImage: /assets/dfhpl-sketch.jpg
