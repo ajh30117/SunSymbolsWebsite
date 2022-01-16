@@ -1,12 +1,17 @@
 ---
 template: about-page
 slug: /about
-title: About
+title: Portfolio
 ---
-Hi, I'm Anna. I'm a freelance writer and editor based in Taipei, Taiwan. I enjoy integrating ideas from the fields of rhetoric, psychology, and technology into my work to craft clear and compelling content that exactly meets readers' needs.
+# Portfolio
 
-My professional interests/areas of focus include copyediting, technical writing & editing, learning design, and web development.
+### Technical Writing & Copywriting
+[1972 Yamaha CS3 Carburetor Removal Manual](https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing)
 
+[ACER Xplova Key Selling Points](https://docs.google.com/document/d/1_L0ZsDWLy_11Z2QZbIaX8IbQZjEZWeK-jW6rHvL4CQM/edit?usp=sharing)
+
+### Editing
+ [aetherAI Press Release](https://docs.google.com/document/d/1wKtqwuyv6LIdJGThPC5GRglMZI4lJE0tI3BWRdjSCLM/edit?usp=sharing)
 <br>
 
 # Services
