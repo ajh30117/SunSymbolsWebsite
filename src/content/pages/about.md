@@ -3,22 +3,26 @@ template: about-page
 slug: /about
 title: Portfolio
 ---
-# Portfolio
 
-### Technical Writing & Copywriting
+### Technical Writing 
 [1972 Yamaha CS3 Carburetor Removal Manual](https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing)
+
+### Copywriting
 
 [ACER Xplova Key Selling Points](https://docs.google.com/document/d/1_L0ZsDWLy_11Z2QZbIaX8IbQZjEZWeK-jW6rHvL4CQM/edit?usp=sharing)
 
-### Editing
+### Editing/Copyediting
  [aetherAI Press Release](https://docs.google.com/document/d/1wKtqwuyv6LIdJGThPC5GRglMZI4lJE0tI3BWRdjSCLM/edit?usp=sharing)
 <br>
+<br>
 
-# Services
+## Services
 
-* Editing / Copyediting
+* Editing / Copyediting / Proofreading
 
-* Writing / Content Creation
+* Technical Writing 
+
+* Copywriting
 
 * English Consulting
 
