@@ -3,9 +3,7 @@ template: about-page
 slug: /about
 title: About
 ---
-Hi, I'm Anna. I'm a freelance writer and editor based in Taipei, Taiwan. I'm passionate about language and enjoy combining the fields of English, rhetoric, and psychology to craft clear and compelling writing. 
-
-Thoughtful and skillful writing is vital to expressing ideas, connecting with people, and impacting opinions.
+Hi, I'm Anna. I'm a freelance writer and editor based in Taipei, Taiwan. I enjoy integrating ideas from the fields of rhetoric, psychology, and technology into my work to craft clear and compelling content that exactly meets readers' needs.
 
 My professional interests/areas of focus include copyediting, technical writing & editing, learning design, and web development.
 
@@ -28,7 +26,6 @@ My professional interests/areas of focus include copyediting, technical writing 
 > *There are different types of editing, and they often overlap. Please see my general outline of
 > different editing jobs below. Keep these in mind when requesting editing work.*
 >
-> *Prices are based on a flat hourly rate. More involved editing jobs will take longer to complete.*  
 
 
 * **Proofreading**: This type focuses on mechanics, including inconsistencies, spelling, grammar, punctuation, capitalization, abbreviation, formatting, etc. *[Writing correctly]*  
@@ -40,7 +37,7 @@ My professional interests/areas of focus include copyediting, technical writing 
 * **Content/developmental editing**: The editor considers the content/substance of the paper. Is it well-structured? Is the style and tone consistent? Does it flow well? Are the ideas well-developed and clearly articulated? Are there any flaws in logic? This type may call for adding or removing large amounts of information. It often involves leaving notes and ongoing communication between author/editor. *[Big picture]*  
 <br>
 
-* **Fact checking**:  this service can be included in any of the above editing types. The editor will ensure the information in your writing is correct and consistent.  
+* **Fact checking**: This service can be included in any of the above editing types. The editor will ensure the information in your writing is correct and consistent.  
 <br>
 
 **What style? What guidelines?**
