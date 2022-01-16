@@ -3,13 +3,15 @@ template: about-page
 slug: /about
 title: About
 ---
-Hi, I'm Anna. I work as an in-house editor for a publication based in Taipei, Taiwan. Having studied Rhetoric & Professional Writing along with Psychology at the University of Tennessee, I enjoy combining rhetoric and psychology with my writing work to craft clear and compelling communication. 
+Hi, I'm Anna. I'm a freelance writer and editor based in Taipei, Taiwan. I'm passionate about language and enjoy combining the fields of English, rhetoric, and psychology to craft clear and compelling writing. 
 
-Rhetoric can be simply defined as the study of symbols. These symbols form systems we use to express ourselves. Language is the most expansive and important of these systems. Therefore, thoughtful and skillful use of language is vital to effectively expressing ideas, connecting with people and impacting opinions.
+Thoughtful and skillful writing is vital to expressing ideas, connecting with people, and impacting opinions.
 
-In addition to writing, rhetoric and psychology, my professional interests include learning design, technical writing and web development/programming.
+My professional interests/areas of focus include copyediting, technical writing & editing, learning design, and web development.
 
-## Services
+<br>
+
+# Services
 
 * Editing / Copyediting
 
@@ -17,7 +19,7 @@ In addition to writing, rhetoric and psychology, my professional interests inclu
 
 * English Consulting
 
-*Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or make project requests.*  
+*Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or discuss your project.*  
 
 ## A Brief Guide to Types of Editing Projects:
 
@@ -65,7 +67,7 @@ In addition to writing, rhetoric and psychology, my professional interests inclu
 >
 >SunSymbols was built using Gatsby—an open-source static website generator based on React. It is hosted on Netlify (which offers cloud hosting and serverless backend services) via continuous deployment from a GitHub repository. The design was customized from a Jamstack template made by [Stackrole](https://stackrole.com/).
 >
->I chose to build a static (over dynamic) website for speed, security and cost-efficiency. I used Gatsby and Netlify due to their ample documentation, user support and compatibility with GitHub. Git branching makes it easy for me to edit my source code locally and test it on a development server before deploying the changes to my site. It is also a great tool for collaboration with others developers.
+>I chose to build a static (over dynamic) website for speed, security and cost-efficiency. I used Gatsby and Netlify due to their ample documentation, user support and compatibility with GitHub. Git branching makes it easy for me to edit my source code locally and test it on a development server before deploying the changes to my site. It is also a great tool for collaboration with other developers.
 >
 >* More about [Gatsby](https://www.gatsbyjs.com/how-it-works/)
 >
