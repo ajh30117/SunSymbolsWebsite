@@ -5,16 +5,19 @@ title: Portfolio
 ---
 
 ### Technical Writing 
+
 [1972 Yamaha CS3 Carburetor Removal Manual](https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing)
 
-### Copywriting
+### B2B Copywriting
 
 [ACER Xplova Key Selling Points](https://docs.google.com/document/d/1_L0ZsDWLy_11Z2QZbIaX8IbQZjEZWeK-jW6rHvL4CQM/edit?usp=sharing)
 
-### Editing/Copyediting
- [aetherAI Press Release](https://docs.google.com/document/d/1wKtqwuyv6LIdJGThPC5GRglMZI4lJE0tI3BWRdjSCLM/edit?usp=sharing)
+### Editing/Copyediting 
+
+[aetherAI Press Release](https://docs.google.com/document/d/1wKtqwuyv6LIdJGThPC5GRglMZI4lJE0tI3BWRdjSCLM/edit?usp=sharing)
 <br>
 <br>
+---
 
 ## Services
 
@@ -26,9 +29,9 @@ title: Portfolio
 
 * English Consulting
 
-*Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or discuss your project.*  
+Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or discuss your project.
 
-## A Brief Guide to Types of Editing Projects:
+### A Brief Guide to Types of Editing Projects:
 
 **What type of editing?**
 
@@ -51,8 +54,7 @@ title: Portfolio
 
 **What style? What guidelines?**
 
-> *Writing and editing often adheres to a specific style guide. Some of the most popular American  
-> English style guides are listed below. Keep these in mind when requesting editing work.*
+> *Writing and editing often adheres to a specific style guide. Some of the most popular American English style guides are listed below. Keep these in mind when requesting editing work.*
 
 
 * **The Chicago Manual of Style (CMS)**: Most common. The standard for book publishing. Also used for literary print publications, particularly in history and the arts.  
@@ -67,6 +69,8 @@ title: Portfolio
 * **APA Publication Manual**: (American Psychological Association). Used in social and behavioral sciences. Focuses on simplifying style, structure and citations.
  
 <br>
+
+---
 <br>
 
 > ## About This Website
