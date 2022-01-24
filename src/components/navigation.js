@@ -11,8 +11,12 @@ const MenuItems = [
     title: "Home",
   },
   {
-    path: "/about",
+    path: "/portfolio",
     title: "Portfolio",
+  },
+  {
+    path: "/services",
+    title: "Services",
   },
   {
     path: "/blog",
@@ -22,6 +26,7 @@ const MenuItems = [
     path: "/contact",
     title: "Contact",
   },
+
 ]
 
 const ListLink = props => (
