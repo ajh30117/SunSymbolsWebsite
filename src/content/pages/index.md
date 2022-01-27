@@ -11,7 +11,7 @@ cta:
 
 Hi, I'm a freelance writer and editor. 
 
-Writing and communication is one of my biggest passions. I hold a BA in Professional Writing and have over two years of 
+I focus on technical writing and communication. 
 
-I enjoy integrating ideas from the fields of rhetoric, psychology, and technology into my work. My goal is to craft clear and compelling content that exactly meets readers' needs.
+I integrate principles from the fields of rhetoric, psychology, and technology into my work to craft clear and compelling content that exactly meets readers' needs.
 
