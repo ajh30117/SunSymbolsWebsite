@@ -8,8 +8,7 @@ featuredImage: /assets/dfhpl-sketch.jpg
 ---
 **Design for How People Learn (Voices That Matter)**
 
-<<<<<<< HEAD
-Julie Dirkson’s Design for How People Learn is a refreshingly accessible guide on crafting effective learning experiences. Written for both novice and experienced designers, it’s an engaging, compact, yet comprehensive survey of the fundamental practices any designer should consider when thinking about how to best help people learn. Dirkson combines information and research from the fields of instructional design, psychology, neuroscience, and information architecture to support the concepts she details in each chapter. The book is easy to digest and includes attractive charts, graphs, dialogues, and other visual representations to simplify and reinforce concepts. Dirkson writes using the very lessons that comprise the book’s contents to optimize her own readers’ learning experiences.
+Julie Dirkson’s *Design for How People Learn* is a refreshingly accessible guide on crafting effective learning experiences. Written for both novice and experienced designers, it’s an engaging, compact, yet comprehensive survey of the fundamental practices any designer should consider when thinking about how to best help people learn. Dirkson combines information and research from the fields of instructional design, psychology, neuroscience, and information architecture to support the concepts she details in each chapter. The book is easy to digest and includes attractive charts, graphs, dialogues, and other visual representations to simplify and reinforce concepts. Dirkson writes using the very lessons that comprise the book’s contents to optimize her own readers’ learning experiences.
 
 Every chapter contains valuable information about the mechanics that underlie learning. I particularly appreciated the way Dirkson weaves science and research into her explanations of each topic. For instance, in her discussion of learning styles, she makes sure to point out that while learning styles do play a role in education, the conventional VARK (Visual, Auditory, Reading, Kinesthetic) model is not currently scientifically supported and for the most part, people are better defined by the similarities in how they learn than by the differences. It was refreshing to see a widely-accepted learning model such as VARK evaluated with modern scientific objectivity.
 
@@ -18,17 +17,6 @@ Below are concepts from each chapter that I found most valuable and actionable (
 **Chapter 2**
 
 The discussion of mental models was very useful. Information processing is important. How can you best help learners structure and organize information? Help learners process and remember information by providing a logical way for them to structure it (closet and shelves analogy).
-=======
-Julie Dirkson’s *Design for How People Learn* is a refreshingly accessible guide on crafting effective learning experiences. Written for both novice and experienced designers, it’s an engaging, compact, yet comprehensive survey of the fundamental practices any designer should consider when thinking about how to best help people learn. Dirkson combines information and research from the fields of instructional design, psychology, neuroscience, and information architecture to support the concepts she details in each chapter. The book is easy to digest and includes attractive charts, graphs, dialogues, and other visual representations to simplify and reinforce concepts. Dirkson writes using the very lessons that comprise the book’s contents to optimize her own readers’ learning experiences.
-
-Every chapter contains valuable information about the mechanics that underlie learning. I particularly appreciated the way Dirkson weaves science and research into her explanations of each topic. For instance, in her discussion of learning styles, she makes sure to point out that while learning styles do play a role in education, the conventional VARK (Visual, Auditory, Reading, Kinesthetic) model is not currently scientifically supported and for the most part, people are better defined by the similarities in how they learn than by the differences. It was refreshing to see a widely-accepted learning model such as VARK evaluated with modern scientific objectivity.
-
-Below are concepts from each chapter that I found most valuable and actionable (from the perspective of a technical writer/editor).
-
-**Chapter 2**
-
-The discussion of mental models was very useful. Information processing is important. How can you best help learners structure and organize information? (Closet analogy).
->>>>>>> 2afe54b43b700b9c7ed9b63a1086cabea53917aa
 
 **Chapter 3**
 
@@ -46,11 +34,7 @@ The best way to get better at something is to do it. For instance, it’s necess
 
 **Chapter 5**
 
-<<<<<<< HEAD
 I was happy to see Dirkson acknowledge the modern culture of distraction.
-=======
-I was happy to see Dirkson acknowledge the modern problem of attention and distraction.
->>>>>>> 2afe54b43b700b9c7ed9b63a1086cabea53917aa
 
 I was skeptical of her discussion of the “elephant model”—two modules of control in the brain (rider versus elephant or rational versus emotional). This model is controversial. A lot of modern science supports a more fluid conception of rationality & emotion.
 
@@ -58,17 +42,10 @@ Dirkson discussed the impact of the ego on learning—it’s important to make p
 
 Other ways to optimize learning:
 
-<<<<<<< HEAD
 Increase emotional resonance.
 Use social learning—we learn better together.
 Use effective visuals—visuals should help distribute the cognitive load.
 Intrinsic motivation triumphs over extrinsic motivation. Give learners autonomy.
-=======
-* Increase emotional resonance.
-* Use social learning—we learn better together.
-* Use effective visuals—visuals should help distribute the cognitive load.
-* Intrinsic motivation triumphs over extrinsic motivation. Give learners autonomy.
->>>>>>> 2afe54b43b700b9c7ed9b63a1086cabea53917aa
 
 **Chapter 6**
 
@@ -84,12 +61,8 @@ The power of habits!
 
 **Conclusion**
 
-My criticisms of “Design for How People Learn” are sparse. The few I have mostly revolve around the inclusion of science that is either ill-founded, outdated, or applied in a reductive way. The writing also falters at times—there are some proofreading errors and some writing is unclear—which detracts from the author’s message and ethos, but only minorly.
+My criticisms of *Design for How People Learn* are sparse. The few I have mostly revolve around the inclusion of science that is either ill-founded, outdated, or applied in a reductive way. The writing also falters at times—there are some proofreading errors and some writing is unclear—which detracts from the author’s message and ethos, but only minorly.
 
 Ultimately, the book provides a thorough and multi-dimensional survey of different lenses through which we can understand learning and discusses how we can use those perspectives to optimize the learning process. Dirkson also notes several related books and studies that readers can explore.
 
-<<<<<<< HEAD
-Design for How People Learn is not only for those in the business of learning or curriculum design. For instance, I found the content applicable to my work as a technical writer, editor, and copywriter. Much of it also overlapped with my studies in rhetoric and psychology, but I believe its relevance extends even more broadly. Processing, reacting to, and integrating new information are central functions in our daily lives. In fact, they’re integral to our social, emotional, and intellectual development. This book is a valuable read for anyone interested in taking a deeper look at those phenomena.
-=======
 *Design for How People Learn* is not only for those in the business of learning or curriculum design. For instance, I found the content applicable to my work as a technical writer, editor, and copywriter. Much of it also overlapped with my studies in rhetoric and psychology, but I believe its relevance extends even more broadly. Processing, reacting to, and integrating new information are central functions in our daily lives. In fact, they’re integral to our social, emotional, and intellectual development. This book is a valuable read for anyone interested in taking a deeper look at those phenomena.
->>>>>>> 2afe54b43b700b9c7ed9b63a1086cabea53917aa
