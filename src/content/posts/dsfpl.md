@@ -16,7 +16,7 @@ Below are concepts from each chapter that I found most valuable and actionable (
 
 **Chapter 2**
 
-The discussion of mental models was very useful. Information processing is important. How can you best help learners structure and organize information? Help learners process and remember information by providing a logical way for them to structure it (closet and shelves analogy).
+The discussion of mental models was very useful. Information processing is important. Help learners process and remember information by providing a logical way for them to structure it (closet and shelves analogy).
 
 **Chapter 3**
 

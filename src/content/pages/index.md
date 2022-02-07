@@ -9,9 +9,7 @@ cta:
   ctaLink: /portfolio
 ---
 
-Hi, I'm a freelance writer and editor. 
+Hi, I'm a freelance writer and editor with a focus on technical communication. 
 
-I focus on technical writing and communication. 
-
-I integrate principles from the fields of rhetoric, psychology, and technology into my work to craft clear and compelling content that exactly meets readers' needs.
+I create simple and compelling content that exactly meets readers' needs.
 
