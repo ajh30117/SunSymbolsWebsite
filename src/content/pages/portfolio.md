@@ -20,9 +20,12 @@ title: Portfolio
 
 ### Editing/Copyediting 
 
+[Microsoft Case Study](https://docs.google.com/document/d/1MsGiDr8jw3zVHMAEjS7_sF0z0HZcyPF1D9UOJ6Cw7Po/edit?usp=sharing)
+<br>
+
 [aetherAI Press Release](https://docs.google.com/document/d/1wKtqwuyv6LIdJGThPC5GRglMZI4lJE0tI3BWRdjSCLM/edit?usp=sharing)
 <br>
-<br>
+
 ---
 
 ## Skills, Tools, Technologies
