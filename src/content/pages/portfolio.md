@@ -11,10 +11,27 @@ title: Portfolio
 ### B2B Copywriting
 
 [ACER Xplova Key Selling Points](https://docs.google.com/document/d/1_L0ZsDWLy_11Z2QZbIaX8IbQZjEZWeK-jW6rHvL4CQM/edit?usp=sharing)
+[KYMCO Electric Vehicle Website Homepage](https://docs.google.com/document/d/1zuTGYa9laV9EMq-2NKJGNtBBvzB0lEmzyN_jVpbgJmQ/edit?usp=sharing)
+[KYMCO Electric Vehicle Website Cloud Page](https://docs.google.com/document/d/1RoR_p5jV_1ddAQJYAUMYnuwqneZkPOYMVwnJSqvRKDA/edit?usp=sharing)
 
 ### Editing/Copyediting 
 
 [aetherAI Press Release](https://docs.google.com/document/d/1wKtqwuyv6LIdJGThPC5GRglMZI4lJE0tI3BWRdjSCLM/edit?usp=sharing)
+<br>
+<br>
+---
+
+## Skills, Tools, Technologies
+* SEO best practices
+* HTML5
+* CSS3
+* Markdown
+* Git/GitHub
+* Snagit
+* Visual Studio Code
+* Figma
+* Trello
+
 <br>
 <br>
 ---
