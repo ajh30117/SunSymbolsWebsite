@@ -11,7 +11,11 @@ title: Portfolio
 ### B2B Copywriting
 
 [ACER Xplova Key Selling Points](https://docs.google.com/document/d/1_L0ZsDWLy_11Z2QZbIaX8IbQZjEZWeK-jW6rHvL4CQM/edit?usp=sharing)
+<br>
+
 [KYMCO Electric Vehicle Website Homepage](https://docs.google.com/document/d/1zuTGYa9laV9EMq-2NKJGNtBBvzB0lEmzyN_jVpbgJmQ/edit?usp=sharing)
+<br>
+
 [KYMCO Electric Vehicle Website Cloud Page](https://docs.google.com/document/d/1RoR_p5jV_1ddAQJYAUMYnuwqneZkPOYMVwnJSqvRKDA/edit?usp=sharing)
 
 ### Editing/Copyediting 
