@@ -38,8 +38,6 @@ title: Portfolio
 * Visual Studio Code
 * Figma
 * Trello
-
-<br>
 <br>
 
 ---
