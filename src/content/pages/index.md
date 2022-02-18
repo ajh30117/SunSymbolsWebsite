@@ -9,5 +9,5 @@ cta:
   ctaLink: /portfolio
 ---
 
-Simple, compelling content that exactly meets readers' needs. No more and no less
+Simple and compelling content that exactly meets readers' needs. No more and no less
 
