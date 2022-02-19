@@ -6,21 +6,22 @@ date: 2022-02-19 18:07
 description: An actionable checklist for technical writing projects
 ---
 
-
+
+
 
 Checklists are used every day by a range of professions that allow little room for error, including construction workers, pilots, and even surgeons. 
 
-In fact, when the World Health Organization introduced a checklist for medical professionals to use before, during, and after surgery, inpatient deaths following operations dropped by 40 percent, according to data published in the New England Journal of Medicine.
+In fact, when the World Health Organization [introduced a checklist for medical professionals](https://www.npr.org/templates/story/story.php?storyId=122226184) to use before, during, and after surgery, inpatient deaths following operations dropped by 40 percent, according to data published in the New England Journal of Medicine.
 
 
 
 
-Checklists are effective because they:
-1. Remove reliance on memory — Memory is faulty. Checklists aren't. 
-2. Prevent distraction — Checklists keep you on task with a list of actionable objectives.
+>Checklists are effective because they:
+>1. **Remove reliance on memory** — Memory is faulty. Checklists aren't. 
+>2. **Prevent distraction** — Checklists keep you on task with a list of actionable objectives.
 
-3. Create a repeatable, measurable process — Checklists define a clear set of steps to follow (and re-follow).
-4. Encourage discipline — Routinely using a checklist develops the discipline that any professional needs to create good work habits.
+>3. **Create a repeatable, measurable process** — Checklists define a clear set of steps to follow (and re-follow).
+>4. **Encourage discipline** — Routinely using a checklist develops the discipline that any professional needs to create good work habits.
 
 
 Below is an actionable checklist I follow for my technical writing and editing tasks. The checklist is largely inspired (but heavily edited) by [Google's Technical Writing courses](https://developers.google.com/tech-writing/one). 
@@ -36,13 +37,13 @@ I enjoyed the courses, but wanted a way to view the information in a more digest
 - [ ] Use terms consistently
 
 
-		Don't cycle between using different words for the same thing
+		Don't cycle between different words for the same thing
 - [ ] Use acronyms properly
 
 
 		Do define acronyms that appear many times
 		Don’t define acronyms that would only be used a few times
-		On first use, spell out full term, put acronym in parentheses
+		First use, spell out term and put acronym in parentheses
 		Use only the acronym going forward
 
 
@@ -102,13 +103,13 @@ I enjoyed the courses, but wanted a way to view the information in a more digest
 
 - [ ] Use a bulleted list or a numbered list for ordered items
 
-		Start numbered list items with imperative verbs (directions)
+		Start numbered list items with imperative verbs
 - [ ] Introduce each list and table
 
 		Consider using the word "following" in the intro sentence
 - [ ] Keep list items parallel
 
-		All list items agree in: grammar, category, caps, punctuation
+		List items agree in: grammar, category, caps, punctuation
 - [ ] Create readable tables
 
 		Label each column with header
@@ -157,7 +158,7 @@ I enjoyed the courses, but wanted a way to view the information in a more digest
 
 - [ ] Write for your audience
 
-		Consider their grasp of vocabulary, concepts, abbreviations, etc.
+		Consider appropriate vocabulary, concepts, abbreviations, etc.
 - [ ] Use simple words over complex words
 - [ ] Keep writing culturally neutral
 - [ ] Avoid idioms
@@ -171,7 +172,7 @@ I enjoyed the courses, but wanted a way to view the information in a more digest
 		Explain what your document covers and does not cover
 - [ ] State your audience
 
-		Consider specifying any prerequisite knowledge or experience
+		Specify any prerequisite knowledge or experience
 - [ ] Summarize key points at the start
 
 		Answer readers' essential questions
