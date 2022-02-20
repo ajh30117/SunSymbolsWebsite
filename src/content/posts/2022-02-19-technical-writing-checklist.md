@@ -19,7 +19,6 @@ In fact, when the World Health Organization [introduced a checklist for medical 
 >Checklists are effective because they:
 >1. **Remove reliance on memory** — Memory is faulty. Checklists aren't. 
 >2. **Prevent distraction** — Checklists keep you on task with a list of actionable objectives.
-
 >3. **Create a repeatable, measurable process** — Checklists define a clear set of steps to follow (and re-follow).
 >4. **Encourage discipline** — Routinely using a checklist develops the discipline that any professional needs to create good work habits.
 
