@@ -4,6 +4,7 @@ title: Technical Writing Checklist
 slug: /technical-writing-checklist
 date: 2022-02-19 18:07
 description: An actionable checklist for technical writing projects
+featuredImage: /assets/checklist2.jpg
 ---
 
 
