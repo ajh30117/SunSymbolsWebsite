@@ -6,27 +6,24 @@ date: 2022-02-19 18:07
 description: An actionable checklist for technical writing projects
 featuredImage: /assets/checklist2.jpg
 ---
+Checklists are used every day in a range of professions that allow little room for error, including engineering, aviation, and even surgery. 
 
-
-
-
-Checklists are used every day by a range of professions that allow little room for error, including construction workers, pilots, and even surgeons. 
 
 In fact, when the World Health Organization [introduced a checklist for medical professionals](https://www.npr.org/templates/story/story.php?storyId=122226184) to use before, during, and after surgery, inpatient deaths following operations dropped by 40 percent, according to data published in the New England Journal of Medicine.
 
 
-
-
 >Checklists are effective because they:
->1. **Remove reliance on memory** — Memory is faulty. Checklists aren't. 
->2. **Prevent distraction** — Checklists keep you on task with a list of actionable objectives.
->3. **Create a repeatable, measurable process** — Checklists define a clear set of steps to follow (and re-follow).
->4. **Encourage discipline** — Routinely using a checklist develops the discipline that any professional needs to create good work habits.
+>1. **Remove reliance on memory** 
+>2. **Create a repeatable, measurable process** 
+>3. **Prevent distraction by listing objectives**
+>4. **Build disicipline and good work habits** 
 
 
-Below is an actionable checklist I follow for my technical writing and editing tasks. The checklist is largely inspired (but heavily edited) by [Google's Technical Writing courses](https://developers.google.com/tech-writing/one). 
+Below is an actionable checklist I follow for my technical writing and editing projects. The checklist is largely inspired (but heavily edited) by [Google's Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/one). 
 
-I enjoyed the courses, but wanted a way to view the information in a more digestible and practical format. A checklist format makes it easy to apply the lessons directly to tech writing projects. Maybe others will also find it useful.
+
+The courses were constructive, but I wanted to view the information in a concise, actionable format. A checklist format makes it easy to apply the course's lessons directly to my writing. Maybe others will also find it useful.
+
 
 ## Tech Writing Checklist
 
@@ -187,3 +184,6 @@ I enjoyed the courses, but wanted a way to view the information in a more digest
 		Create a logical outline
 
 </details>
+
+
+[Markdown text](https://docs.google.com/document/d/1rKsqfChGfw9ZQ_1HRLYC8dr47y3EeOXsPFFiXADbUN0/edit?usp=sharing)

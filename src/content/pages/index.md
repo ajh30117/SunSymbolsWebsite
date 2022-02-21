@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Anna Humphrey
-tagline: Technical Writer, Editor, Copyeditor
+tagline: Technical Writer & Editor
 featuredImage: /assets/sunsymbolshomepage.jpg
 cta:
   ctaText: Portfolio
