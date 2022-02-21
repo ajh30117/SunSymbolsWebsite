@@ -11,7 +11,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        "We write to discover what we think." — Joan Didion
+        "Let me tell you what I mean" — Joan Didion
       </p>
     </div>
   </footer>

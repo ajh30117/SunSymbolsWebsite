@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: 'Book Review: "Design for How People Learn" by Julie Dirkson'
+title: 'Book Review: Design for How People Learn by Julie Dirkson'
 slug: /book-review-design-for-how-people-learn
 date: 2022-01-28 11:19
 description: A brief review of a book on learning design principles.
