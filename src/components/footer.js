@@ -11,7 +11,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        "Let me tell you what I mean" — Joan Didion
+        Let Me Tell You What I Mean — Joan Didion
       </p>
     </div>
   </footer>

@@ -8,19 +8,12 @@ title: Services
 
 * Technical Writing 
 
-* Copywriting
+* Content writing
 
-* English Consulting
 
-Please visit my [Contact](https://www.sunsymbols.com/contact) page to request more information or discuss your project.
+[Contact](https://www.sunsymbols.com/contact) me to discuss your needs.
 
-### A Brief Guide to Types of Editing Projects:
-
-**What type of editing?**
-
-> *There are different types of editing, and they often overlap. Please see my general outline of
-> different editing jobs below. Keep these in mind when requesting editing work.*
->
+### Types of Editing:
 
 
 * **Proofreading**: This type focuses on mechanics, including inconsistencies, spelling, grammar, punctuation, capitalization, abbreviation, formatting, etc. *[Writing correctly]*  
