@@ -3,15 +3,17 @@ template: about-page
 slug: /services
 title: Services
 ---
-
-* Editing / Copyediting / Proofreading
-
-* Technical Writing 
-
-* Content writing
+* Copywriting
 
 
-[Contact](https://www.sunsymbols.com/contact) me to discuss your needs.
+* Technical Writing
+
+
+* Editing 
+
+
+
+[Tell me about your project.](https://www.sunsymbols.com/contact)
 
 ### Types of Editing:
 
@@ -27,23 +29,6 @@ title: Services
 
 * **Fact checking**: This service can be included in any of the above editing types. The editor will ensure the information in your writing is correct and consistent.  
 <br>
-
-**What style? What guidelines?**
-
-> *Writing and editing often adheres to a specific style guide. Some of the most popular American English style guides are listed below. Keep these in mind when requesting editing work.*
-
-
-* **The Chicago Manual of Style (CMS)**: Most common. The standard for book publishing. Also used for literary print publications, particularly in history and the arts.  
-<br>
-
-* **The AP Stylebook**: Used for newspaper and journalistic publications as well as marketing, PR, and corporate writing. Saves space in print and on web pages.  
-<br>
-
-* **MLA Handbook**: Used in the liberal arts and humanities, particularly in English studies and literature.  
-<br>
-
-* **APA Publication Manual**: (American Psychological Association). Used in social and behavioral sciences. Focuses on simplifying style, structure and citations.
- 
 
 
 

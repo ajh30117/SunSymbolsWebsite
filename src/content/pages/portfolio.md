@@ -5,13 +5,22 @@ title: Portfolio
 ---
 
 ### Technical Writing 
-
 [1972 Yamaha CS3 Carburetor Removal Manual](https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing)
+<body>
+  <a href="https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing">
+      <img alt="Carb Manual" src="\assets\carbmanual.jpg"
+         width="25%" height="25%">
+  </a>
+</body>
 
 ### B2B Copywriting
-
-[ACER Xplova Key Selling Points](https://docs.google.com/document/d/1_L0ZsDWLy_11Z2QZbIaX8IbQZjEZWeK-jW6rHvL4CQM/edit?usp=sharing)
-<br>
+[ACER Xplova Key Selling Points](https://docs.google.com/document/d/1ODsxz9wXC1tkvYwBhUpQn4YReUU_MDGbt_pyUe6HdyY/edit?usp=sharing)
+ <body>
+      <a href="https://docs.google.com/document/d/1ODsxz9wXC1tkvYwBhUpQn4YReUU_MDGbt_pyUe6HdyY/edit?usp=sharing">
+         <img alt="Qries" src="\assets\acer-xplova-ksps.jpg"
+         width="25%" height="25%">
+      </a>
+   </body>
 
 [KYMCO Electric Vehicle Website Homepage](https://docs.google.com/document/d/1zuTGYa9laV9EMq-2NKJGNtBBvzB0lEmzyN_jVpbgJmQ/edit?usp=sharing)
 <br>
