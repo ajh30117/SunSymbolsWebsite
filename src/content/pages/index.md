@@ -9,9 +9,8 @@ cta:
   ctaLink: /portfolio
 ---
 
-I create simple and compelling content that exactly meets readers' needs. 
+Creating simple and compelling content that exactly meets readers' needs. 
 
-Specializing in technical writing and B2B copywriting for technology, I use my background in rhetoric, research, and psychology to create completely user-centered content. 
+I specialize in **technical writing** and **B2B copywriting** for technology, using my background in rhetoric, research, and psychology to create completely user-centered content. 
 
-Effective writing is an art *and* a science.
 
