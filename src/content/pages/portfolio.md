@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /portfolio
-title: Portfolio
+title: Writing Samples
 ---
 
 ### Technical Writing 
