@@ -6,10 +6,10 @@ date: 2022-02-19 18:07
 description: An actionable checklist for technical writing projects
 featuredImage: /assets/checklist2.jpg
 ---
-Checklists are used every day in a range of professions that allow little room for error, including engineering, aviation, and even surgery. 
+Checklists are used every day in a range of professions that allow little room for error, like  engineering, aviation, and even surgery. 
 
 
-In fact, when the World Health Organization [introduced a checklist for medical professionals](https://www.npr.org/templates/story/story.php?storyId=122226184) to use before, during, and after surgery, inpatient deaths following operations dropped by 40 percent, according to data published in the New England Journal of Medicine.
+When the World Health Organization [introduced a checklist for medical professionals](https://www.npr.org/templates/story/story.php?storyId=122226184) to use before, during, and after surgery, inpatient deaths following operations dropped by 40 percent, according to data published in the New England Journal of Medicine.
 
 
 >Checklists are effective because they:
@@ -19,10 +19,7 @@ In fact, when the World Health Organization [introduced a checklist for medical 
 >4. **Build disicipline and good work habits** 
 
 
-Below is an actionable checklist I follow for my technical writing and editing projects. The checklist is largely inspired (but heavily edited) by [Google's Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/one). 
-
-
-The courses were constructive, but I wanted to view the information in a concise, actionable format. A checklist format makes it easy to apply the course's lessons directly to my writing. Maybe others will also find it useful.
+Below is an actionable checklist that can be used for technical writing and editing projects. The checklist is inspired by [Google's Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/one). 
 
 
 ## Tech Writing Checklist

@@ -4,7 +4,7 @@ slug: /portfolio
 title: Writing Samples
 ---
 
-### Technical Writing 
+### Technical Writing and Editing
 [1972 Yamaha CS3 Carburetor Removal Manual](https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing)
 <body>
   <a href="https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing">
@@ -12,6 +12,10 @@ title: Writing Samples
          width="25%" height="25%">
   </a>
 </body>
+
+[How to Add Nitrogen to Soil](https://www.familyfoodgarden.com/how-to-add-nitrogen-to-soil/)
+
+[Scissortail Rasbora Care Guide & Species Profile](https://www.fishkeepingworld.com/scissortail-rasbora/)
 
 ### B2B Copywriting
 [ACER Xplova Key Selling Points](https://docs.google.com/document/d/1ODsxz9wXC1tkvYwBhUpQn4YReUU_MDGbt_pyUe6HdyY/edit?usp=sharing)

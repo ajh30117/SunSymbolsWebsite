@@ -5,7 +5,7 @@ title: Anna Humphrey
 tagline: Technical Writer & Copywriter
 featuredImage: /assets/sunsymbolshomepage.jpg
 cta:
-  ctaText: See my portfolio
+  ctaText: See writing samples
   ctaLink: /portfolio
 ---
 
