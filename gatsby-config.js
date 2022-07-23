@@ -15,9 +15,6 @@ const settings = require("./src/util/site.json")
 module.exports = {
   siteMetadata: settings.meta,
   plugins: [
-    // google analytics 
-module.exports = {
-  plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -47,8 +44,6 @@ module.exports = {
         enableWebVitalsTracking: true,
       },
     },
-  ],
-},
     {
       resolve: `gatsby-source-filesystem`,
       options: {
