@@ -16,16 +16,23 @@ module.exports = {
   siteMetadata: settings.meta,
   plugins: [
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: "G-YWN6074GS6",
-        // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: true,
-        // Delays sending pageview hits on route update (in milliseconds)
-        pageTransitionDelay: 0,
-        // defaults to false
-        enableWebVitalsTracking: true,
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-YWN6074GS6", // Google Analytics / GA
+        ],
+        // This config will be shared across all trackingIds
+        gtagConfig: {
+          cookie_expires: 0,
+        },
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true,
+          // Defaults to https://www.googletagmanager.com
+          origin: "YOUR_SELF_HOSTED_ORIGIN",
+        },
       },
     },
     {
