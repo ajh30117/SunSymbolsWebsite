@@ -6,19 +6,23 @@ date: 2022-01-28 11:19
 description: A brief review of a book on learning design principles.
 featuredImage: /assets/dfhpl-sketch.jpg
 ---
-**Design for How People Learn (Voices That Matter)**
+# Design for How People Learn (Voices That Matter)
 
-Julie Dirkson’s *Design for How People Learn* is a refreshingly accessible guide on crafting effective learning experiences. Written for both novice and experienced designers, it’s an engaging, compact, yet comprehensive survey of the fundamental practices any designer should consider when thinking about how to best help people learn. Dirkson combines information and research from the fields of instructional design, psychology, neuroscience, and information architecture to support the concepts she details in each chapter. The book is easy to digest and includes attractive charts, graphs, dialogues, and other visual representations to simplify and reinforce concepts. Dirkson writes using the very lessons that comprise the book’s contents to optimize her own readers’ learning experiences.
+### A book review by chapter
+
+Julie Dirkson’s *Design for How People Learn* is a refreshingly accessible guide on crafting effective learning experiences. Written for both novice and experienced designers, it’s an engaging, compact, yet comprehensive survey of the fundamental practices any designer should consider when thinking about how to best help people learn. 
+
+Dirkson combines information and research from the fields of instructional design, psychology, neuroscience, and information architecture to support the concepts she details in each chapter. The book is easy to digest and includes attractive charts, graphs, dialogues, and other visual representations to simplify and reinforce concepts. Dirkson writes using the very lessons that comprise the book’s contents to optimize her own readers’ learning experiences.
 
 Every chapter contains valuable information about the mechanics that underlie learning. I particularly appreciated the way Dirkson weaves science and research into her explanations of each topic. For instance, in her discussion of learning styles, she makes sure to point out that while learning styles do play a role in education, the conventional VARK (Visual, Auditory, Reading, Kinesthetic) model is not currently scientifically supported and for the most part, people are better defined by the similarities in how they learn than by the differences. It was refreshing to see a widely-accepted learning model such as VARK evaluated with modern scientific objectivity.
 
-Below are concepts from each chapter that I found most valuable and actionable (in my work as a technical writer/editor).
+Below are notes from each chapter that I found most valuable and actionable (in my work as a copywriter and technical writer).
 
-**Chapter 2**
+## Chapter 2: Who are your learners?
 
 The discussion of mental models was very useful. Information processing is important. Help learners process and remember information by providing a logical way for them to structure it (closet and shelves analogy).
 
-**Chapter 3**
+## Chapter 3: What's the goal?
 
 It’s important to define specific learning goals in learning objectives. Use actionable verbs!
 
@@ -26,13 +30,13 @@ Good survey of learning scales (Will Thalheimer taxonomy of learning objectives,
 
 “Pace layering”—understanding the difference between what progress learners can make short-term versus long-term. In other words, fast and slow skills. Design for either type of skill. Don’t expect learners to be able to change their foundation quickly.
 
-**Chapter 4**
+## Chapter 4: How do we remember?
 
 Context-based learning is key. I’m familiar with this knowledge from my undergraduate research in language acquisition as well as from my foreign language studies. It’s well-proven.
 
 The best way to get better at something is to do it. For instance, it’s necessary to practice retrieval, not just recognition, in order to be able to retrieve.
 
-**Chapter 5**
+## Chapter 5: How do you get their attention?
 
 I was happy to see Dirkson acknowledge the modern culture of distraction.
 
@@ -47,19 +51,19 @@ Use social learning—we learn better together.
 Use effective visuals—visuals should help distribute the cognitive load.
 Intrinsic motivation triumphs over extrinsic motivation. Give learners autonomy.
 
-**Chapter 6**
+## Chapter 6: Design for knowledge
 
 I disagree with Dirkson’s take on cognitive load. She advises mediating cognitive load, asserting that “aside from the constraints of hunger, fatigue, and bathroom breaks, there’s really no limit on someone’s potential attention span” (173). Modern research on attention span and cognitive load suggests the opposite—that intense focus is a limited resource.
 
-**Chapter 7**
+## Chapter 7: Design for skills
 
 Dirkson explains that learning practice ideally allows learners a balance of challenge and satisfaction (flow/edge between challenge and ability). It’s important to allow learners to take breaks and coast occasionally.
 
-**Chapter 8**
+## Chapter 8: Design for motivation
 
 The power of habits!
 
-**Conclusion**
+## Conclusion
 
 My criticisms of *Design for How People Learn* are sparse. The few I have mostly revolve around the inclusion of science that is either ill-founded, outdated, or applied in a reductive way. The writing also falters at times—there are some proofreading errors and some writing is unclear—which detracts from the author’s message and ethos, but only minorly.
 

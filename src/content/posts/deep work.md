@@ -8,6 +8,8 @@ featuredImage: /assets/deepworkv3.jpg
 ---
 # Deep Work: Rules for Focused Success in a Distracted World
 
+### A book review
+
 In *Deep Work* Cal Newport, a professor of computer science at Georgetown University, drives home the power of harnessing deep work to achieve personal and professional success. He insists that deep work is becoming a rare commodity in the swamp of email, social media, and busywork that many knowledge workers find themselves stuck in. And with the rise of Web 2.0, people are becoming more aware of the many distractions fighting for space in today’s attention economy. 
 
 The conversation around attention and deep work continues to grow, and Newport pushes it to an insightful new level. His writing is also persuasive — he bothers readers with images of time, energy, and genius lost to modern mindlessness, insisting deep work is the answer to true productivity.

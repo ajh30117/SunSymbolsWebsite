@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "On Writing Well by William Zinsser: 4 Tips for Better Digital Content"
+title: "4 Tips for Better Digital Content from William Zinsser's On Writing Well"
 slug: /4tipsonwritingwell
 date: 2022-08-18 16:54
 description: Four tips from William Zinsser's classic book On Writing Well to
@@ -9,9 +9,9 @@ featuredImage: /assets/negative-space-keyboard-02.jpg
 ---
 <!--StartFragment-->
 
-## William Zinsser’s On Writing Well: 4 Tips for Better Digital Content
+# 4 Tips for Better Digital Content from William Zinsser's On Writing Well
 
-How to use this classic book’s advice to write well \*online\*
+### How to use this classic book’s advice to write well \*online\*
 
 I’ve seen so many people recommend William Zinsser’s book *On Writing Well* to newer writers — particularly copywriters. But the book's first edition *is* 40-something years old, and the way we consume information has changed drastically in that time.
 
