@@ -19,7 +19,7 @@ So I decided to read through the book again, zeroing in on the parts most releva
 
 My verdict? *On Writing Well* covers basic ingredients to good writing. But lots of content is oversimplified or outdated. I think aspiring content writers may get more value out of reading newer and more relevant books (like Ann Handley’s *Everybody Writes*). 
 
-Anyway, good thing I scoured the pages of *On Writing Well* and picked out the best parts so you don’t have to ;)
+Anyway, good thing I scoured the book's pages and picked out the best parts so you don’t have to ;)
 
 Here are the five most useful tips from Zinsser’s *On Writing Well* to help you create better digital content that truly resonates with readers.
 
