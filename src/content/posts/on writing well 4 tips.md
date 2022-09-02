@@ -27,7 +27,7 @@ Here are the five most useful tips from Zinsser’s *On Writing Well* to help yo
 
 #### “The secret of good writing is to strip every sentence to its cleanest components”
 
-Simplicity is key to creating good digital content. With a surplus of information now at everyone’s fingertips, the fight for attention is more competitive than ever. 
+Simplicity is key to creating good digital content. With a surplus of information now at everyone’s fingertips, the fight for attention is fiercer than ever. 
 
 People have busy lives and can’t afford to spend time and energy deciphering complicated or messy content. And they don’t have to — they’ll click ‘back’ and find another source.
 
