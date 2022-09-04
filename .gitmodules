@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = C:\Users\ajh30\Documents\SunSymbols\sun-symbols-site\SunSymbolsWebsite
+  url = git://ajh30117/SunSymbolsWebsite/
