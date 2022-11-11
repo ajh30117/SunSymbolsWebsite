@@ -2,15 +2,15 @@
 template: index-page
 slug: /
 title: Anna Humphrey
-tagline: Technical Writer & Copywriter
+tagline: Technical Writer & B2B Copywriter
 featuredImage: /assets/sunsymbolshomepage.jpg
 cta:
   ctaText: See writing samples
   ctaLink: /portfolio
 ---
 
-Creating simple and compelling content that exactly meets readers' needs. 
+You need simple, compelling, user-centered content.
 
-I specialize in **technical writing** and **B2B copywriting** for technology, using my background in rhetoric, research, and psychology to create completely user-centered content. 
+I use my background in professional writing, research, and psychology to deliver that.
 
 

@@ -18,6 +18,9 @@ title: Writing Samples
 [Scissortail Rasbora Care Guide & Species Profile](https://www.fishkeepingworld.com/scissortail-rasbora/)
 
 ### B2B Copywriting
+[BenQ Monthly Blog Post](https://www.benq.com/en-ap/education/edtech-blog/what-are-the-costs-of-adding-a-smart-board-to-the-classroom.html)
+<br>
+
 [ACER Xplova Key Selling Points](https://docs.google.com/document/d/1ODsxz9wXC1tkvYwBhUpQn4YReUU_MDGbt_pyUe6HdyY/edit?usp=sharing)
  <body>
       <a href="https://docs.google.com/document/d/1ODsxz9wXC1tkvYwBhUpQn4YReUU_MDGbt_pyUe6HdyY/edit?usp=sharing">
@@ -31,7 +34,7 @@ title: Writing Samples
 
 [KYMCO Electric Vehicle Website Cloud Page](https://docs.google.com/document/d/1RoR_p5jV_1ddAQJYAUMYnuwqneZkPOYMVwnJSqvRKDA/edit?usp=sharing)
 
-### Editing/Copyediting 
+### Editing and Copyediting 
 
 [Microsoft Case Study](https://docs.google.com/document/d/1MsGiDr8jw3zVHMAEjS7_sF0z0HZcyPF1D9UOJ6Cw7Po/edit?usp=sharing)
 <br>
