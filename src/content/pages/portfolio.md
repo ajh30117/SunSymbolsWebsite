@@ -4,7 +4,7 @@ slug: /portfolio
 title: Writing Samples
 ---
 
-### Technical Writing Samples
+### Technical Writing
 [1972 Yamaha CS3 Carburetor Removal Manual](https://docs.google.com/document/d/1zK1f4DbFlKdP7UgrS5OWuFU2D6MS-pGeRPCxoX888W0/edit?usp=sharing)
 <br>
 
