@@ -8,8 +8,6 @@ description: Read about 8 essential practices that define effective technical
   Writing.
 featuredImage: /assets/code-gd11a5c20e_1920.jpg
 ---
-<!--StartFragment-->
-
 Andrew Etter’s 2016 *Modern Technical Writing* is a short and sweet guide to creating effective software documentation. 
 
 The book covers the most basic tenets of technical writing (like research, style, and audience) before diving into detail about practices specific to software documentation (like using simple markup languages, distributed control, and static websites).
@@ -108,8 +106,6 @@ The book ends in five simple steps that summarize how to create useful and acces
 
 ## Review and Conclusion
 
-I fully recommend reading this book to (1) anyone who wants to gain an understanding of the skills and technologies used in technical writing for software, or (2) current technical writers looking for advice on creating effective writing processes or improving existing ones.
+I recommend reading this book to (1) people who want to gain an understanding of the skills and technologies used in technical writing for software, or (2) current technical writers looking for advice on creating effective writing processes or improving existing ones.
 
-T﻿he e-book is available on [Amazon](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
-
-<!--EndFragment-->
+The e-book is available on [Amazon](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).

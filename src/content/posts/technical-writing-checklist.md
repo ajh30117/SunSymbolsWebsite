@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Technical Writing Checklist
+title: Tech Writing Checklist from Google's Technical Writing Course for Engineers
 slug: /technical-writing-checklist
 date: 2022-02-19 18:07
 description: An actionable checklist for technical writing projects
@@ -19,7 +19,7 @@ When the World Health Organization [introduced a checklist for medical professio
 >4. **Build disicipline and good work habits** 
 
 
-Below is an actionable checklist that can be used for technical writing and editing projects. The checklist is inspired by [Google's Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/one). 
+Below is an actionable checklist that can be referenced for technical writing projects. The checklist is inspired by [Google's Technical Writing Courses for Engineers](https://developers.google.com/tech-writing/one). 
 
 
 ## Tech Writing Checklist
