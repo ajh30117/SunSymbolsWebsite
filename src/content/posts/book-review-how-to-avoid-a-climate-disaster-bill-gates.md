@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: 'Flash Book Review: How to Avoid a Climate Disaster by Bill Gates'
+title: 'Book Review: How to Avoid a Climate Disaster by Bill Gates'
 slug: /book-review-how-to-avoid-a-climate-disaster-bill-gates
 date: 2022-09-02 16:31
-description: A quick book review of Bill Gates' 2021 book How to Avoid a Climate
+description: A quick book review of Bill Gates' 2021 How to Avoid a Climate
   Disaster, and 8 important takeaways
 featuredImage: /assets/stocksnap_lightning.jpg
 ---

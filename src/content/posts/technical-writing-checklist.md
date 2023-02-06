@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Tech Writing Checklist from Google's Technical Writing Course for Engineers
+title: Technical Writing Checklist (Inspired by Google's Technical Writing Course)
 slug: /technical-writing-checklist
 date: 2022-02-19 18:07
 description: An actionable checklist for technical writing projects
