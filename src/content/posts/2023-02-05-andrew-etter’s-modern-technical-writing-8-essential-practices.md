@@ -12,7 +12,7 @@ Andrew Etter’s 2016 *Modern Technical Writing* is a short and sweet guide to c
 
 The book covers the most basic tenets of technical writing (like research, style, and audience) before diving into detail about practices specific to software documentation (like using simple markup languages, distributed control, and static websites).
 
-I think this book is a particularly good resource for writers in leadership positions or who work more independently because Etter gives practical and comprehensive advice on building out an entire documentation process.
+I think this book is a particularly good resource for writers in leadership positions or who work independently because Etter gives a lot of practical advice on building out a comprehensive documentation process.
 
 ## 1. Test and research thoroughly before you write
 
@@ -20,25 +20,25 @@ In any writing process, research should make up the majority of the work, and yo
 
 One of my favorite poets and lyricists once commented on her creative process, “if you read, you’ll write.” 
 
-As a writer, I think about that a lot — to create worthwhile output, you need good input.
+As a writer, I think about that line a lot. To create worthwhile output, you need good input.
 
-To write clear and comprehensive docs, you need to understand the product as thoroughly as possible — thoroughly enough to take your research further by asking pointed and specific questions to the right people. 
+To produce clear and comprehensive docs, you need enough input to understand the product thoroughly. How? Researching, testing, and then pushing your understanding further by asking pointed and specific questions to the right people. 
 
 To get your answers swiftly and smoothly, Etters advises being well-prepared for meetings, batching questions, and showing respect and gratitude for people’s time. 
 
-Then, writing down all the knowledge you’ve curated is the final step in the process. This probably shouldn’t take more than 10% of your time.
+Writing down all the knowledge you’ve curated is the final step in the process, and probably shouldn’t take more than 10% of your time.
 
 ## 2. BFD (What’s BFD?)
 
 It’s basic functional documentation. And it means you’ve answered the most fundamental questions about your product. The questions are:
 
-* What’s the product and why would someone want it?
+* What is the product and why would someone want it?
 * How does the product fit into a broader ecosystem (if at all)? Does it have any dependencies?
 * Where can someone acquire this product? If there are multiple distribution packages, which should they choose?
 * Where do they install the product? What are the basic configuration options?
 * What does a simple, start-to-finish operation look like?
 
-Answering these questions gives you direction for creating a baseline level of content, and not overwhelming users with too much content.
+Answering these questions gives you direction for creating a baseline level of content, and avoids overwhelming users with too much content.
 
 ## 3. Write with style
 
@@ -46,21 +46,21 @@ Etters make a couple key points about style.
 
 First, “consistency is king” — meaning your reliability (ethos if we’re talking rhetoric) declines when your language and vocabulary are inconsistent. For example, “If you call something a dialog in one document, don’t call it a pop-up in another.”
 
-Second, Include headers, tables, lists, diagrams, and images to make writing more attractive, scannable, and approachable. For example, write sequential instructions in a numbered list and use inline styles (like bolding) to emphasize important text (like user interface controls).
+Second, Include headers, tables, lists, diagrams, and images to make writing more attractive, scannable, and approachable. For example, write sequential instructions in a numbered list and use inline styles (like **bolding**) to emphasize important text (like **user interface controls**).
 
 ## 4. Host your documentation on a static website
 
 Static websites increase speed, simplicity, and security. “Static” means a static web page is delivered to a user’s web browser exactly as stored, instead of being dynamically generated each time. Therefore, the server needs far fewer hardware resources.
 
-Static site generators let you use a templated theme and add content with lightweight markup, and then they process everything into a working website. Actually, the website you’re reading this article on is a static website, thanks to [Gatsby](https://www.gatsbyjs.com/docs/glossary/static-site-generator/). Other popular static site generators include [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), and [Sphinx](https://www.sphinx-doc.org/en/master/) (specifically built for documentation).
+Static site generators let you use a templated theme and add content with lightweight markup, and then they process everything into a working website. Actually, the website you’re reading this article on is a static website, thanks to [Gatsby](https://www.gatsbyjs.com/docs/glossary/static-site-generator/). Other popular static site generators include [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), and [Sphinx](https://www.sphinx-doc.org/en/master/) (which is specifically built for documentation).
 
-An even easier alternative to using static site generators is to create a [GitHub wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis), but this option doesn’t allow customization and has no search solution.
+An even easier alternative to using static site generators is to create a [GitHub wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis), but this option doesn’t allow customization, and it lacks a search solution.
 
 ## 5. Use lightweight markup
 
 Lightweight markup languages make it easy to read and write documentation, which makes contribution more accessible to more people.
 
-The best three types of markup languages are: 
+According to Etters, the best three types of markup languages are: 
 
 * Markdown
 
@@ -94,18 +94,20 @@ This one is pretty simple. 
 
 As Etter states, “In any field, opinions become more credible when you attach quantitative metrics to them.”
 
+Technical writing is no different.
+
 ## 8. To wrap it up in 5 steps
 
-The book ends in five simple steps that summarize how to create useful and accessible documentation in the modern software industry.
+The final chapter lists 5 simple steps to create useful and accessible documentation in the modern software industry.
 
 1. Learn everything about a subject
-2. Write down exactly what an audience needs to know and no more.
+2. Write down exactly what an audience needs to know (and no more).
 3. Make the content beautiful, discoverable, scannable, searchable.
 4. Consider everything a draft, and iterate relentlessly.
 5. Make contributing simple.
 
 ## Review and Conclusion
 
-I recommend reading this book to (1) people who want to gain an understanding of the skills and technologies used in technical writing for software, or (2) current technical writers looking for advice on creating effective writing processes or improving existing ones.
+Modern Technical Writing was a great read. It's short and accessible, but packed with substance and actionable steps to improve your documentation. Etter's book is a great resource for any writers who want advice on writing effectively and building smooth documentation processes.
 
 The e-book is available on [Amazon](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
